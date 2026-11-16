@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img">
+  <title>快柠檬</title>
+  <desc>斜向留白切开柠檬圆形，形成向前的节奏；叶片只用一个切面。</desc>
+  <g fill="#181a1d"><path fill-rule="evenodd" d="M20 7A13 13 0 1 0 33 20 13 13 0 0 0 20 7Zm-8.7 22L29 11.3l2.2 2.2L13.5 31.2Z"/><path fill="#5a6e20" d="M25 7c2-5 6-6 11-5-1 5-4 8-9 8Z"/></g>
+</svg>

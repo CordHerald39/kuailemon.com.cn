@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img">
+<title>快柠檬品牌纸雕插画</title>
+<desc>斜切柠檬、卷起的果皮和轻云，表达清新轻快。 原创可编辑矢量图，无外部素材。</desc>
+<defs>
+  <linearGradient id="lemon-paper" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#ffffff"/><stop offset=".6" stop-color="#f7f9f8"/><stop offset="1" stop-color="#e5ebe7"/></linearGradient>
+  <linearGradient id="lemon-accent" x1=".15" y1="0" x2=".85" y2="1"><stop stop-color="#abb58d"/><stop offset="1" stop-color="#5a6e20"/></linearGradient>
+  <linearGradient id="lemon-accentSoft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ebeee4"/><stop offset=".5" stop-color="#d6dbc7"/><stop offset="1" stop-color="#a9b48b"/></linearGradient>
+  <linearGradient id="lemon-leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#abb79a"/><stop offset="1" stop-color="#5f785b"/></linearGradient>
+  <linearGradient id="lemon-ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#536058"/><stop offset=".6" stop-color="#303c35"/><stop offset="1" stop-color="#19231d"/></linearGradient>
+  <filter id="lemon-shadow" x="-35%" y="-35%" width="170%" height="190%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#35443c" flood-opacity=".12"/></filter>
+  <filter id="lemon-smallshadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#35443c" flood-opacity=".1"/></filter>
+  <filter id="lemon-blur" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="800" height="600" fill="#fff"/>
+<ellipse cx="405" cy="510" rx="215" ry="18" fill="#273933" opacity=".075" filter="url(#lemon-blur)"/><g transform="translate(568 234) scale(0.95)" filter="url(#lemon-shadow)"><path d="M-86 28c-42 0-49-55-10-69 3-41 59-53 82-20 29-16 65 4 66 33 42 0 53 56 15 66H-86Z" fill="url(#lemon-paper)" stroke="#e5e9e8" stroke-width="1.2"/></g>
+<path d="M165 380c-15 80 100 121 208 103 104-17 176-15 225 8" fill="none" stroke="#e3e9d7" stroke-width="24" stroke-linecap="round" filter="url(#lemon-smallshadow)"/>
+<path d="M165 380c-15 80 100 121 208 103 104-17 176-15 225 8" fill="none" stroke="url(#lemon-accentSoft)" stroke-width="17" stroke-linecap="round"/>
+<g transform="translate(334 285) rotate(-26)" filter="url(#lemon-shadow)">
+  <ellipse cx="13" cy="26" rx="146" ry="152" fill="url(#lemon-accent)"/>
+  <circle r="151" fill="#f6f6e8" stroke="#d9dfbc" stroke-width="9"/>
+  <circle r="135" fill="#fffef5"/>
+  <path transform="rotate(0 0 0)" d="M12-13 20-101c25 4 46 15 62 33L20-8Z" fill="url(#lemon-accentSoft)" stroke="#fff" stroke-width="5" stroke-linejoin="round"/><path transform="rotate(45 0 0)" d="M12-13 20-101c25 4 46 15 62 33L20-8Z" fill="url(#lemon-accentSoft)" stroke="#fff" stroke-width="5" stroke-linejoin="round"/><path transform="rotate(90 0 0)" d="M12-13 20-101c25 4 46 15 62 33L20-8Z" fill="url(#lemon-accentSoft)" stroke="#fff" stroke-width="5" stroke-linejoin="round"/><path transform="rotate(135 0 0)" d="M12-13 20-101c25 4 46 15 62 33L20-8Z" fill="url(#lemon-accentSoft)" stroke="#fff" stroke-width="5" stroke-linejoin="round"/><path transform="rotate(180 0 0)" d="M12-13 20-101c25 4 46 15 62 33L20-8Z" fill="url(#lemon-accentSoft)" stroke="#fff" stroke-width="5" stroke-linejoin="round"/><path transform="rotate(225 0 0)" d="M12-13 20-101c25 4 46 15 62 33L20-8Z" fill="url(#lemon-accentSoft)" stroke="#fff" stroke-width="5" stroke-linejoin="round"/><path transform="rotate(270 0 0)" d="M12-13 20-101c25 4 46 15 62 33L20-8Z" fill="url(#lemon-accentSoft)" stroke="#fff" stroke-width="5" stroke-linejoin="round"/><path transform="rotate(315 0 0)" d="M12-13 20-101c25 4 46 15 62 33L20-8Z" fill="url(#lemon-accentSoft)" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
+  <circle r="10" fill="#fffef7"/>
+</g>
+<path d="M453 160c7-62 56-88 103-84-7 53-43 84-103 84Z" fill="url(#lemon-leaf)" filter="url(#lemon-smallshadow)"/>
+<path d="m462 150 72-53" fill="none" stroke="#fff" stroke-width="2" opacity=".4"/>
+<path d="M568 430c27-23 56-26 84-12-18 27-51 32-84 12Z" fill="url(#lemon-accentSoft)"/>
+<path d="m137 211 17-18 16 15-18 18Z" fill="url(#lemon-paper)" stroke="#e0e5d8"/>
+
+</svg>

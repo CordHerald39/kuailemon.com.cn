@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kuailemon.com.cn/sitemap.xml
